@@ -1,0 +1,62 @@
+body{
+    
+    background-color: bisque;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    background-position: center;
+    text-align: center;
+}
+
+#g{
+    width: 250px;
+    height: 33px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(21, 233, 183);
+}
+
+#g:hover{
+    background-color: rgb(185, 103, 177);
+}
+
+#abc{
+    width: 250px;
+    height: 33px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(21, 233, 183);
+}
+
+#abc:hover{
+    background-color:  rgb(185, 103, 177);
+}
+
+#sub{
+    width: max-content;
+    height: max-content;
+    text-align: center;
+    border-radius: 0cqmax;
+    font-size: larger;
+    background-color: rgb(21, 233, 183);
+}
+
+#sub:hover{
+    background-color:  rgb(185, 103, 177);
+}
+
+#pp{
+    width: 280px;
+    height: 35px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: rgb(21, 233, 183);
+}
+
+#pp:hover{
+    background-color:  rgb(185, 103, 177);
+}
